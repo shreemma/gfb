@@ -1,0 +1,1 @@
+Code for random projects, mostly arduino based. Lots of OneWire stuff including an arduino onewire shield prototype.
